@@ -34,4 +34,4 @@ fruit_set.clear()
 #delete set
 del fruit_set
 
-print(fruit_set)
+#print(fruit_set)
