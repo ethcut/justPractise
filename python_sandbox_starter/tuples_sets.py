@@ -33,5 +33,5 @@ fruit_set.remove('Grape')
 fruit_set.clear()
 #delete set
 del fruit_set
-
+#now set is not defined
 #print(fruit_set)
