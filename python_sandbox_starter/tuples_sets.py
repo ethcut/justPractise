@@ -34,4 +34,5 @@ fruit_set.clear()
 #delete set
 del fruit_set
 #now set is not defined
+#Hello
 #print(fruit_set)
